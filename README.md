@@ -1,3 +1,10 @@
+# Einrichten einer Arbeitsumgebung
+## Das Projekt klonen
+Um das Projekt zu klonen ist ein Git Client erforderlich.
+Wenn du mit Git nicht vertraut bist würde sich der Github Desktop Client eignen. 
+https://desktop.github.com/
+
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
