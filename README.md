@@ -1,3 +1,6 @@
+# Informationen zum Projekt
+- Link zum [Testen](https://ccc-jugendgruppe.github.io/fairydustforest/)
+
 # Einrichten einer Arbeitsumgebung
 ## Das Projekt klonen
 Um das Projekt zu klonen ist ein Git Client erforderlich.
