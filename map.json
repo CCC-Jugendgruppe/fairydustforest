@@ -4,7 +4,11 @@
      "export":
         {
          "format":"json",
+<<<<<<< HEAD
          "target":"map.json"
+=======
+         "target":"..\/map.json"
+>>>>>>> 238fa34ec51b4cff0b356f9908eabecc3f451f97
         }
     },
  "height":32,
@@ -890,6 +894,7 @@
          "tilecount":9,
          "tileheight":32,
          "tilewidth":32
+<<<<<<< HEAD
         }, 
         {
          "columns":3,
@@ -916,9 +921,15 @@
          "tilecount":9,
          "tileheight":32,
          "tilewidth":32
+=======
+>>>>>>> 238fa34ec51b4cff0b356f9908eabecc3f451f97
         }],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
  "width":32
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 238fa34ec51b4cff0b356f9908eabecc3f451f97
