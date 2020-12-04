@@ -1,16 +1,12 @@
-<<<<<<< HEAD
 { "compressionlevel":-1,
  "editorsettings":
     {
      "export":
         {
          "format":"json",
-<<<<<<< HEAD
-         "target":"map.json"
-=======
+         "target":"map.json",
          "target":"..\/map.json"
->>>>>>> 238fa34ec51b4cff0b356f9908eabecc3f451f97
-        }
+       }
     },
  "height":32,
  "infinite":false,
