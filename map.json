@@ -813,7 +813,7 @@
                          "tileid":8
                         }, 
                         {
-                         "duration":100,
+                         "duration":3000,
                          "tileid":3
                         }],
                  "id":8
