@@ -223,7 +223,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"foo.json"
+                 "value":"foo.json#bar"
                 }],
          "type":"tilelayer",
          "visible":true,
