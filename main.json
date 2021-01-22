@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/fairydustforest\/map.json"
         }
     },
  "height":32,
@@ -223,7 +223,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/fairydustforest\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -723,7 +723,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"..\/fairydustforest\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -854,7 +854,7 @@
         {
          "columns":3,
          "firstgid":321,
-         "image":"baelle3.1.png",
+         "image":"..\/fairydustforest\/baelle3.1.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -904,7 +904,7 @@
         {
          "columns":3,
          "firstgid":330,
-         "image":"baellebadtest123.png",
+         "image":"..\/fairydustforest\/baellebadtest123.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -917,7 +917,7 @@
         {
          "columns":3,
          "firstgid":339,
-         "image":"baelle3.1.png",
+         "image":"..\/fairydustforest\/baelle3.1.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -971,7 +971,7 @@
         {
          "columns":2,
          "firstgid":348,
-         "image":"worldExit.png",
+         "image":"..\/fairydustforest\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -984,7 +984,7 @@
         {
          "columns":1,
          "firstgid":352,
-         "image":"alexa.png",
+         "image":"..\/fairydustforest\/alexa.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -997,7 +997,7 @@
         {
          "columns":2,
          "firstgid":353,
-         "image":"jugendgruppe.png",
+         "image":"..\/fairydustforest\/jugendgruppe.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1010,7 +1010,7 @@
         {
          "columns":3,
          "firstgid":357,
-         "image":"matelight.png",
+         "image":"..\/fairydustforest\/matelight.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -1023,7 +1023,7 @@
         {
          "columns":3,
          "firstgid":366,
-         "image":"matelight.png",
+         "image":"..\/fairydustforest\/matelight.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -1036,7 +1036,7 @@
         {
          "columns":1,
          "firstgid":375,
-         "image":"space-primary.png",
+         "image":"..\/fairydustforest\/space-primary.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -1049,13 +1049,26 @@
         {
          "columns":3,
          "firstgid":377,
-         "image":"wandbild.png",
+         "image":"..\/fairydustforest\/wandbild.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
          "name":"wandbild",
          "spacing":0,
          "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":28,
+         "firstgid":389,
+         "image":"..\/fairydustforest\/2dpixx_dungeon.png",
+         "imageheight":768,
+         "imagewidth":896,
+         "margin":0,
+         "name":"2dpixx_dungeon",
+         "spacing":0,
+         "tilecount":672,
          "tileheight":32,
          "tilewidth":32
         }],

@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -161,6 +168,58 @@
          "name":"worldExit",
          "spacing":0,
          "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":2351,
+         "image":"city.png",
+         "imageheight":180,
+         "imagewidth":160,
+         "margin":0,
+         "name":"city",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":5,
+         "firstgid":2376,
+         "image":"city_bg.png",
+         "imageheight":180,
+         "imagewidth":160,
+         "margin":0,
+         "name":"city_bg",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":2401,
+         "image":"factory_tileset.png",
+         "imageheight":512,
+         "imagewidth":832,
+         "margin":0,
+         "name":"factory_tileset",
+         "spacing":0,
+         "tilecount":416,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":2817,
+         "image":"tiles1.png",
+         "imageheight":96,
+         "imagewidth":224,
+         "margin":0,
+         "name":"tiles1",
+         "spacing":0,
+         "tilecount":21,
          "tileheight":32,
          "tilewidth":32
         }],
