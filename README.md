@@ -18,6 +18,9 @@ This is a starter kit to help you build your own map for [WorkAdventure](https:/
 
 Um das Projekt zu klonen ist ein Git Client erforderlich.
 
+
+`git clone https://github.com/CCC-Jugendgruppe/fairydustforest.git`
+
 Wenn du mit Git nicht vertraut bist würde sich der Github Desktop Client eignen. 
 
 https://desktop.github.com/
