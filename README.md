@@ -1,18 +1,27 @@
 # Informationen zum Projekt
 - Link zum [Testen](https://ccc-jugendgruppe.github.io/fairydustforest/)
  
-# Einrichten einer Arbeitsumgebung
-## Das Projekt klonen
-Um das Projekt zu klonen ist ein Git Client erforderlich.
-Wenn du mit Git nicht vertraut bist würde sich der Github Desktop Client eignen. 
-https://desktop.github.com/
 
+#Unsere Map
 ![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/Keller.png)
 ![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/neotopia.png)
 ![Sreenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/see.png)
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+
+
+# Einrichten einer Arbeitsumgebung
+
+## Das Projekt klonen
+
+Um das Projekt zu klonen ist ein Git Client erforderlich.
+
+Wenn du mit Git nicht vertraut bist würde sich der Github Desktop Client eignen. 
+
+https://desktop.github.com/
+
 
 ## Tools you will need
 
