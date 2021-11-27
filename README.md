@@ -59,16 +59,7 @@ Click on the link. You should be redirected directly to WorkAdventure, on your m
 
 Your map is now up and online. You need to customize it.
 
-### Cloning the map
 
-Start by cloning the map. If you are used to Git and GitHub, simply clone the map
-to your computer using your preferred tool and [jump to the next chapter](#loading-the-map-in-tiled).
-
-If you are new to Git, cloning the map means downloading the map to your computer.
-To do this, you will need Git, or a Git compatible tool. Our advice is to use
-[GitHub Desktop](https://desktop.github.com/).
-
-TODO: test and continue
 
 ### Loading the map in Tiled
 
@@ -82,22 +73,13 @@ Some resources regarding Tiled:
 - [Tiled documentation](https://doc.mapeditor.org/en/stable/manual/introduction/)
 - [Tiled video tutorials](https://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx)
 
-### About WorkAdventu.re maps
+### About WorkAdventu maps
 
-In order to design a map that will be readable by WorkAdventure, you will have to respect some constraints.
-
-In particular, you will need to:
-
-- set a start position for the players
-- configure the "floor layer" (so that WorkAdventure can correctly display characters above the floor, but under the ceiling)
-- eventually, you can place exits that link to other maps
-
-All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
-Please be sure to check it out. 
+here is an [overview](https://howto.rc3.world/maps.html)
 
 ### Pushing the map
 
-When your changes are ready, you need to "commit" and "push" the changes back to GitHub.
+When your changes are ready, you need to `git add`, `git commit` and `git push` the changes back to GitHub.
 Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
 
 TODO: describe how to push
