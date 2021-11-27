@@ -3,9 +3,9 @@
  
 
 # Unsere Map
-![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/Keller.png)
-![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/neotopia.png)
-![Sreenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/see.png)
+![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/Keller.png)
+![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/neotopia.png)
+![Sreenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/Bilder/see.png)
 
 # WorkAdventure Map Starter Kit
 
