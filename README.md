@@ -4,9 +4,9 @@ Dies ist die Map vom Chaos Computer Club [Göttingen](https://www.ccc.de/).
 
 
 # Unsere Map
-![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/Keller.png)
-![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/neotopia.png)
-![Sreenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/docu/see.png)
+![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/doc/Keller.png)
+![Screenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/doc/neotopia.png)
+![Sreenshot.](https://github.com/CCC-Jugendgruppe/fairydustforest/blob/master/doc/see.png)
 
 
 # WorkAdventure Map Starter Kit
